@@ -1,0 +1,36 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+tracker
+daily
+monthly
+
+# Test binary
+*.test
+
+# Output
+*.out
+
+# Database
+*.db
+*.db-journal
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Go workspace file
+go.work
