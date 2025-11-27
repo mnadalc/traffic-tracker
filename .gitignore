@@ -4,9 +4,6 @@
 *.dll
 *.so
 *.dylib
-tracker
-daily
-monthly
 
 # Test binary
 *.test
@@ -20,6 +17,7 @@ monthly
 
 # Environment
 .env
+.cursorrules
 
 # IDE
 .vscode/
